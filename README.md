@@ -72,5 +72,4 @@ Busco uma oportunidade de estágio ou desenvolvedor Backend Java Júnior para co
 
 Contato
 
-* GitHub: OttoLuis
-*ottoluis46@gmail.com
+* GitHub: ottoluis46@gmail.com
