@@ -24,7 +24,6 @@ DevOps e infraestrutura
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/dockercompose/2496ED" height="48" alt="Docker Compose" />
   <img src="https://skillicons.dev/icons?i=git,github,maven" alt="Git, GitHub e Maven" />
 </p>
 
